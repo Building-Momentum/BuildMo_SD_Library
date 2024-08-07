@@ -1,6 +1,7 @@
-= SD Library for Arduino =
+= SD Library for Arduino used with BuildMo training =
 
-image:https://travis-ci.org/arduino-libraries/SD.svg?branch=master[Build Status, link=https://travis-ci.org/arduino-libraries/SD]
+Adds simplified examples geared toward Innovation Bootcamp and other
+training that uses the SD Library.
 
 The SD library allows for reading from and writing to SD cards.
 
@@ -9,7 +10,7 @@ http://www.arduino.cc/en/Reference/SD
 
 == License ==
 
- Copyright (C) 2009 by William Greiman
+Copyright (C) 2009 by William Greiman
 Copyright (c) 2010 SparkFun Electronics
 
 This program is free software: you can redistribute it and/or modify
