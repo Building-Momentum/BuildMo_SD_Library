@@ -60,9 +60,5 @@ void loop() {
   } else {
     Serial.println("Error opening test.txt");                           // If the file didn't open, print an error
   }
-
-  // Remove this while statement to run loop() more than once
-  while (1) {
-    // Infinte while 
-  }
+  delay(10000); // run every 10 seconds
 }
